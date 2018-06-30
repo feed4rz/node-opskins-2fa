@@ -1,6 +1,6 @@
 {
   "name": "opskins-2fa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS opskins two factor code generator",
   "main": "index.js",
   "scripts": {
