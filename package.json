@@ -1,0 +1,24 @@
+{
+  "name": "opskins-2fa",
+  "version": "1.0.0",
+  "description": "NodeJS opskins two factor code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feed4rz/node-opskins-2fa.git"
+  },
+  "keywords": [
+    "opskins",
+    "2fa",
+    "code"
+  ],
+  "author": "feed4rz",
+  "license": "MIT",
+  "dependencies": {
+    "notp": "^2.0.3",
+    "thirty-two": "^1.0.2"
+  }
+}
