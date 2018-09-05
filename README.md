@@ -1,3 +1,5 @@
+<img src="https://vgowiki.com/vgowiki3.png" alt="VGOWIKI"> 
+
 ## Opskins 2fa
 
 Example:
